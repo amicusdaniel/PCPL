@@ -3,7 +3,7 @@ from lab_python_oop import Rectangle
 from lab_python_oop import Square
 
 if __name__ == '__main__':
-    print(Rectangle.Rectangle("синий", 12, 13))
-    print(Circle.Circle("зеленый", 12))
-    print(Square.Square("красный", 12))
+    print(Rectangle.Rectangle("синий", 7, 7))
+    print(Circle.Circle("зеленый", 7))
+    print(Square.Square("красный", 7))
 
